@@ -1,0 +1,3 @@
+rootProject.name = 'jai_pubg_1853'
+
+include ':app'
